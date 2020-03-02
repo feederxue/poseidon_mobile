@@ -1,0 +1,11 @@
+.am-tabs ,.am-tabs-horizontal ,.am-tabs-bottom{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.am-tabs-content-wrap ,.am-tabs-content-wrap-animated{
+    flex:1;
+}
+.am-tabs-tab-bar-wrap{
+    height: 50px;
+}
